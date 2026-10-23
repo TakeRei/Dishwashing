@@ -1,0 +1,42 @@
+# Unityの自動生成フォルダ
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Visual Studio関連
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+
+# 署名用の証明書(公開しない)
+*.pfx
+*.pfx.meta
+
+# Asset Store由来・再配布不可のため除外
+/Assets/Effect/
+/Assets/Effect.meta
+/Assets/Hovl Studio/
+/Assets/Hovl Studio.meta
+/Assets/sound/
+/Assets/sound.meta
+
+# 自動生成・外部ライブラリ(READMEにバージョンを記載)
+/Assets/TextMesh Pro/
+/Assets/TextMesh Pro.meta
+/Assets/XR/
+/Assets/XR.meta
+/Assets/MRTK/
+/Assets/MRTK.meta
+/Assets/MixedRealityToolkit.Generated/
+/Assets/MixedRealityToolkit.Generated.meta
+
+# MRTK等のパッケージ本体・バックアップ
+/Packages/MixedReality/
+/Packages/manifest.json.backup
