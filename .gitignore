@@ -40,3 +40,7 @@
 # MRTK等のパッケージ本体・バックアップ
 /Packages/MixedReality/
 /Packages/manifest.json.backup
+
+# Visual Studioが自動生成するテンプレートフォルダ
+/Assets/Script/Visual Studio 2022/
+/Assets/Script/Visual Studio 2022.meta
