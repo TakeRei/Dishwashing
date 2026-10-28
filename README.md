@@ -31,7 +31,7 @@ HoloLens 2で、食器洗いをゲーム感覚で楽しめるMRコンテンツ�
 - Unity 2022.3.10f1
 - HoloLens 2
 - Mixed Reality Toolkit (MRTK) 2.8.3
-- OpenXR Plugin 1.11.1
+- Mixed Reality OpenXR Plugin 1.11.1
 - C#
 
 ## 工夫した点・苦労した点
@@ -66,6 +66,7 @@ HoloLensの空間認識で食器を認識しようとしましたが、食器よ
 - [Magic Effects FREE](https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933)(Hovl Studio)
 - Mixed Reality Toolkit 2.8.3
 - 効果音:[効果音ラボ](https://soundeffect-lab.info/sound/button/)
+- 進行ガイドやリザルト画像は、PowerPointやCanvaで自作しました。
 
 ## 注意事項
 
